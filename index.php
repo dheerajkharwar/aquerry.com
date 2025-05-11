@@ -691,7 +691,7 @@ Maharashtra, 411046</a>
                 <!--/*** This template is free as long as you keep the below author’s credit link/attribution link/backlink. ***/-->
                 <!--/*** If you'd like to use the template without the below author’s credit link/attribution link/backlink, ***/-->
                 <!--/*** you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". ***/-->
-                <a class="border-bottom text-white" href="https://dheerajkharwar.com">Designed By</a>
+                <!-- Designed By<a class="border-bottom text-white" href="#"></a> -->
             </div>
         </div>
     </div>
