@@ -641,9 +641,7 @@ include('components/header.php');
             </div> -->
             <div class="col-md-6 col-lg-6 col-xl-3">
                 <div class="footer-item d-flex flex-column">
-                    <h4 class="text-white mb-4">About Us</h4>
-
-                    <a href="javascript:void(0)"><i class="fas fa-angle-right me-2"></i> Why Choose Us</a>
+                    <h4 class="text-white mb-4">Why Choose Us</h4>
                     <a href="javascript:void(0)"><i class="fas fa-angle-right me-2"></i> Advanced RO + UV + Mineral Addition Technology</a>
                     <a href="javascript:void(0)"><i class="fas fa-angle-right me-2"></i> Lab-Tested and ISI Certified</a>
                     <a href="javascript:void(0)"><i class="fas fa-angle-right me-2"></i> Hygienic, Tamper-Proof Packaging</a>
