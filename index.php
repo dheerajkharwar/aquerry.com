@@ -361,8 +361,8 @@ include('components/header.php');
             </div>
         </div>
     </div>
-    <div class="container py-4 text-center">
-        <p>Each bottle is sealed with care and tested to meet ISI and FSSAI standards, ensuring that you receive only the best.</p>
+    <div class="container py-4">
+        <p class=" text-center">Each bottle is sealed with care and tested to meet ISI and FSSAI standards, ensuring that you receive only the best.</p>
     </div>
 </div>
 <!-- Products End -->
