@@ -671,7 +671,7 @@ include('components/header.php');
                     <h4 class="text-white mb-4">Contact Info</h4>
                     <a href="#"><i class="fa fa-map-marker-alt me-2"></i> Max Parlour, 4th, 401, Khopade Empire, S. No. 8/1, Khopade Nagar, Gujarwadi Road, Katraj, Pune, Pune,
 Maharashtra, 411046</a>
-                    <a href="mailto:info@example.com"><i class="fas fa-envelope me-2"></i> omprakash@mihusystems.in</a>
+                    <a href="mailto:pureh2o@gmail.com"><i class="fas fa-envelope me-2"></i> pureh2o@gmail.com</a>
                     <a href="tel:+91 7972247649"><i class="fas fa-phone me-2"></i> +91 7972247649</a>
                 </div>
             </div>
