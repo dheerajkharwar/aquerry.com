@@ -639,7 +639,7 @@ include('components/header.php');
                     </div>
                 </div>
             </div> -->
-            <div class="col-md-8 col-lg-4 col-xl-4">
+            <div class="col-md-8 col-lg-4 col-xl-5">
                 <div class="footer-item d-flex flex-column">
                     <h4 class="text-white mb-4">Why Choose Us</h4>
                     <a href="javascript:void(0)"><i class="fas fa-angle-right me-2"></i> Advanced RO + UV + Mineral Addition Technology</a>
@@ -649,7 +649,7 @@ include('components/header.php');
                     <a href="javascript:void(0)"><i class="fas fa-angle-right me-2"></i> Reliable Delivery and Distribution Network</a>
                 </div>
             </div>
-            <div class="col-md-8 col-lg-4 col-xl-4">
+            <div class="col-md-8 col-lg-4 col-xl-3">
                 <div class="footer-item d-flex flex-column">
                     <h4 class="text-white mb-4">Business Hours</h4>
                     <div class="mb-3">
@@ -666,7 +666,7 @@ include('components/header.php');
                     </div>
                 </div>
             </div>
-            <div class="col-md-8 col-lg-4 col-xl-4">
+            <div class="col-md-8 col-lg-4 col-xl-5">
                 <div class="footer-item d-flex flex-column">
                     <h4 class="text-white mb-4">Contact Info</h4>
                     <a href="#"><i class="fa fa-map-marker-alt me-2"></i> Max Parlour, 4th, 401, Khopade Empire, S. No. 8/1, Khopade Nagar, Gujarwadi Road, Katraj, Pune, Pune,
