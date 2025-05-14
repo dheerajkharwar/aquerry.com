@@ -52,12 +52,12 @@ include('components/header.php');
 <div class="container-fluid about overflow-hidden py-5">
     <div class="container py-5">
         <div class="row g-5">
-            <div class="col-xl-6 wow fadeInLeft" data-wow-delay="0.2s">
+            <!-- <div class="col-xl-6 wow fadeInLeft" data-wow-delay="0.2s">
                 <div class="about-img rounded h-100">
                     <img src="img/about.jpg" class="img-fluid rounded h-100 w-100" style="object-fit: cover;" alt="">
                     <div class="about-exp"><span>20 Years Experiance</span></div>
                 </div>
-            </div>
+            </div> -->
             <div class="col-xl-6 wow fadeInRight" data-wow-delay="0.2s">
                 <div class="about-item">
                     <h4 class="text-primary text-uppercase">About Us</h4>
