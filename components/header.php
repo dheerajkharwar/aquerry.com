@@ -83,7 +83,7 @@
         <div class="container text-center py-5" style="max-width: 900px;">
             <h4 class="text-white display-4 mb-4 wow fadeInDown" data-wow-delay="0.1s">Meenakanchan Pure H2O Private Limited</h4>
             <ol class="breadcrumb d-flex justify-content-center mb-0 wow fadeInDown" data-wow-delay="0.3s">
-                <li class="breadcrumb-item text-green">"Purity in Every Drop"</li>
+                <li class="breadcrumb-item text-primary">"Purity in Every Drop"</li>
             </ol>
         </div>
     </div>
