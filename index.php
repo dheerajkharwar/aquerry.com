@@ -118,7 +118,8 @@ include('components/header.php');
 
 
 <!-- Fact Counter -->
-<div class="container-fluid counter py-5">
+<!-- <div class="container-fluid counter py-5"> -->
+<div class="container-fluid py-5">
     <div class="container py-5">
         <div class="row g-5">
             <!-- <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.2s">
@@ -169,7 +170,7 @@ include('components/header.php');
                     </div>
                 </div>
             </div> -->
-            <img src="img/bottles.php" alt="our products image">
+            <img src="img/bottles.png" alt="our products image">
         </div>
     </div>
 </div>
