@@ -121,7 +121,7 @@ include('components/header.php');
 <div class="container-fluid counter py-5">
     <div class="container py-5">
         <div class="row g-5">
-            <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.2s">
+            <!-- <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.2s">
                 <div class="counter-item">
                     <div class="counter-item-icon mx-auto">
                         <i class="fas fa-thumbs-up fa-3x text-white"></i>
@@ -168,7 +168,8 @@ include('components/header.php');
                         <span class="h1 fw-bold text-white">+</span>
                     </div>
                 </div>
-            </div>
+            </div> -->
+            <img src="img/bottles.php" alt="our products image">
         </div>
     </div>
 </div>
