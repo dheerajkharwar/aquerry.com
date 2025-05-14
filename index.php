@@ -118,8 +118,7 @@ include('components/header.php');
 
 
 <!-- Fact Counter -->
-<!-- <div class="container-fluid counter py-5"> -->
-<div class="container-fluid py-5">
+<div class="container-fluid counter py-5">
     <div class="container py-5">
         <div class="row g-5">
             <div class="col-md-12 col-lg-4 col-xl-4 wow fadeInUp" data-wow-delay="0.2s">
