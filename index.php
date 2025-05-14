@@ -122,7 +122,7 @@ include('components/header.php');
 <div class="container-fluid py-5">
     <div class="container py-5">
         <div class="row g-5">
-            <!-- <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.2s">
+            <div class="col-md-12 col-lg-4 col-xl-4 wow fadeInUp" data-wow-delay="0.2s">
                 <div class="counter-item">
                     <div class="counter-item-icon mx-auto">
                         <i class="fas fa-thumbs-up fa-3x text-white"></i>
@@ -134,7 +134,7 @@ include('components/header.php');
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.4s">
+            <div class="col-md-12 col-lg-4 col-xl-4 wow fadeInUp" data-wow-delay="0.4s">
                 <div class="counter-item">
                     <div class="counter-item-icon mx-auto">
                         <i class="fas fa-truck fa-3x text-white"></i>
@@ -146,7 +146,7 @@ include('components/header.php');
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.6s">
+            <div class="col-md-12 col-lg-4 col-xl-4 wow fadeInUp" data-wow-delay="0.6s">
                 <div class="counter-item">
                     <div class="counter-item-icon mx-auto">
                         <i class="fas fa-users fa-3x text-white"></i>
@@ -158,7 +158,7 @@ include('components/header.php');
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.8s">
+            <!-- <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.8s">
                 <div class="counter-item">
                     <div class="counter-item-icon mx-auto">
                         <i class="fas fa-heart fa-3x text-white"></i>
@@ -170,7 +170,6 @@ include('components/header.php');
                     </div>
                 </div>
             </div> -->
-            <img src="img/bottles.png" alt="our products image">
         </div>
     </div>
 </div>
