@@ -68,46 +68,48 @@ include('components/header.php');
                     <p class="mb-4">
                         Our brand is built on the principles of purity, health, and trust. Every bottle of Meenakanchan Pure H2O goes through rigorous multi-stage filtration, including reverse osmosis (RO), UV treatment, and essential mineral enhancement, ensuring safe and healthy hydration with a great taste.
                     </p>
-                    <div class="bg-light rounded p-4 mb-4">
-                        <div class="row">
-                            <div class="col-12">
-                                <div class="d-flex">
-                                    <div class="pe-4">
-                                        <div class="rounded-circle bg-primary d-flex align-items-center justify-content-center" style="width: 80px; height: 80px;"><i class="fas fa-tint text-white fa-2x"></i></div>
-                                    </div>
-                                    <div class="">
-                                        <a href="#" class="h4 d-inline-block mb-3">Our Vision</a>
-                                        <p class="mb-0">
-                                            To be India’s most reliable and respected mineral water brand, known for our uncompromising quality and commitment to public health.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="bg-light rounded p-4 mb-4">
-                        <div class="row">
-                            <div class="col-12">
-                                <div class="d-flex">
-                                    <div class="pe-4">
-                                        <div class="rounded-circle bg-primary d-flex align-items-center justify-content-center" style="width: 80px; height: 80px;"><i class="fas fa-faucet text-white fa-2x"></i></div>
-                                    </div>
-                                    <div class="">
-                                        <a href="#" class="h4 d-inline-block mb-3">Our Mission Product</a>
-                                        <p class="mb-0">
-                                        <ul>
-                                            <li>To provide affordable, accessible, and pure drinking water to every corner of the country.</li>
-                                            <li>To use eco-friendly packaging and sustainable practices in all our operations.</li>
-                                            <li>To constantly innovate and upgrade our processes to ensure global standards in quality and hygiene.</li>
-                                        </ul>
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <a href="#" class="btn btn-secondary rounded-pill py-3 px-5">Read More</a>
                 </div>
+            </div>
+            <div class="col-xl-6 wow fadeInRight" data-wow-delay="0.2s">
+                <div class="bg-light rounded p-4 mb-4">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="d-flex">
+                                <div class="pe-4">
+                                    <div class="rounded-circle bg-primary d-flex align-items-center justify-content-center" style="width: 80px; height: 80px;"><i class="fas fa-tint text-white fa-2x"></i></div>
+                                </div>
+                                <div class="">
+                                    <a href="#" class="h4 d-inline-block mb-3">Our Vision</a>
+                                    <p class="mb-0">
+                                        To be India’s most reliable and respected mineral water brand, known for our uncompromising quality and commitment to public health.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="bg-light rounded p-4 mb-4">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="d-flex">
+                                <div class="pe-4">
+                                    <div class="rounded-circle bg-primary d-flex align-items-center justify-content-center" style="width: 80px; height: 80px;"><i class="fas fa-faucet text-white fa-2x"></i></div>
+                                </div>
+                                <div class="">
+                                    <a href="#" class="h4 d-inline-block mb-3">Our Mission Product</a>
+                                    <p class="mb-0">
+                                    <ul>
+                                        <li>To provide affordable, accessible, and pure drinking water to every corner of the country.</li>
+                                        <li>To use eco-friendly packaging and sustainable practices in all our operations.</li>
+                                        <li>To constantly innovate and upgrade our processes to ensure global standards in quality and hygiene.</li>
+                                    </ul>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <a href="#" class="btn btn-secondary rounded-pill py-3 px-5">Read More</a>
             </div>
         </div>
     </div>
