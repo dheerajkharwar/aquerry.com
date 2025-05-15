@@ -69,9 +69,9 @@
             </div>
             <div class="d-none d-xl-flex me-3">
                 <div class="d-flex flex-column pe-3 border-end border-primary">
-                    <span class="text-body">Contact</span>
-                    <a href="tel:+91 7972247649"><span class="text-primary">: +91 7972247649</span></a>
-                    <a href="tel:+91 9922759640"><span class="text-primary">: +91 9922759640</span></a>
+                    <span class="text-body">Contact Us</span>
+                    <a href="tel:+91 7972247649"><span class="text-primary"> +91 7972247649</span></a>
+                    <a href="tel:+91 9922759640"><span class="text-primary"> +91 9922759640</span></a>
                 </div>
             </div>
             <button class="btn btn-primary btn-md-square d-flex flex-shrink-0 mb-3 mb-lg-0 rounded-circle me-3" data-bs-toggle="modal" data-bs-target="#searchModal"><i class="fas fa-search"></i></button>
