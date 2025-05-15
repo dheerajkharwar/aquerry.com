@@ -675,6 +675,7 @@ include('components/header.php');
                         Maharashtra, 411046</a>
                     <a href="mailto:pureh2o@gmail.com"><i class="fas fa-envelope me-2"></i> pureh2o@gmail.com</a>
                     <a href="tel:+91 7972247649"><i class="fas fa-phone me-2"></i> +91 7972247649</a>
+                    <a href="tel:+91 9922759640"><i class="fas fa-phone me-2"></i> +91 9922759640</a>
                 </div>
             </div>
         </div>
