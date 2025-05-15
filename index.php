@@ -671,8 +671,9 @@ include('components/header.php');
             <div class="col-md-8 col-lg-4 col-xl-4">
                 <div class="footer-item d-flex flex-column">
                     <h4 class="text-white mb-4">Contact Info</h4>
-                    <a href="#"><i class="fa fa-map-marker-alt me-2"></i> Max Parlour, 4th, 401, Khopade Empire, S. No. 8/1, Khopade Nagar, Gujarwadi Road, Katraj, Pune, Pune,
-                        Maharashtra, 411046</a>
+                    <a href="#"><i class="fa fa-map-marker-alt me-2"></i> SR No4 -4/2/4, Lane no 6 SAWKASH NAGAR, Khondhwa KH,
+                        Pune, Pune City, Maharashtra, India, 411048
+                    </a>
                     <a href="mailto:pureh2o@gmail.com"><i class="fas fa-envelope me-2"></i> pureh2o@gmail.com</a>
                     <a href="tel:+91 7972247649"><i class="fas fa-phone me-2"></i> +91 7972247649</a>
                     <a href="tel:+91 9922759640"><i class="fas fa-phone me-2"></i> +91 9922759640</a>
