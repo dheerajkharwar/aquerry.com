@@ -231,7 +231,7 @@ include('components/header.php');
             </div>
             <div class="col-lg-6 col-xl-4 wow fadeInUp" data-wow-delay="0.3s">
                 <div class="bg-transparent">
-                    <img src="img/water.png?v=1.0" class="img-fluid w-100" alt="">
+                    <img src="img/water.png" class="img-fluid w-100" alt="">
                 </div>
             </div>
             <div class="col-lg-6 col-xl-4 wow fadeInRight" data-wow-delay="0.2s">
@@ -297,7 +297,7 @@ include('components/header.php');
         <div class="row g-4 justify-content-center">
             <div class="col-lg-6 col-xl-4 wow fadeInUp" data-wow-delay="0.2s">
                 <div class="product-item">
-                    <img src="img/200ml.png?v=1.0" class="img-fluid w-100 rounded-top" alt="Image">
+                    <img src="img/200ml.png" class="img-fluid w-100 rounded-top" alt="Image">
                     <div class="product-content bg-light text-center rounded-bottom p-4">
                         <p>200 ml (Cup/Glass)</p>
                         <a href="#" class="h4 d-inline-block mb-3">Mineral Water Bottle</a>
@@ -308,7 +308,7 @@ include('components/header.php');
             </div>
             <div class="col-lg-6 col-xl-4 wow fadeInUp" data-wow-delay="0.4s">
                 <div class="product-item">
-                    <img src="img/500ml.png?v=1.0" class="img-fluid w-100 rounded-top" alt="Image">
+                    <img src="img/500ml.png" class="img-fluid w-100 rounded-top" alt="Image">
                     <div class="product-content bg-light text-center rounded-bottom p-4">
                         <p>500 ml</p>
                         <a href="#" class="h4 d-inline-block mb-3">RO Water Bottle</a>
@@ -319,7 +319,7 @@ include('components/header.php');
             </div>
             <div class="col-lg-6 col-xl-4 wow fadeInUp" data-wow-delay="0.6s">
                 <div class="product-item">
-                    <img src="img/1l.png?v=1.0" class="img-fluid w-100 rounded-top" alt="Image">
+                    <img src="img/1l.png" class="img-fluid w-100 rounded-top" alt="Image">
                     <div class="product-content bg-light text-center rounded-bottom p-4">
                         <p>1 Litre</p>
                         <a href="#" class="h4 d-inline-block mb-3">UV Water Bottle</a>
@@ -330,7 +330,7 @@ include('components/header.php');
             </div>
             <div class="col-lg-6 col-xl-4 wow fadeInUp" data-wow-delay="0.6s">
                 <div class="product-item">
-                    <img src="img/2l.png?v=1.0" class="img-fluid w-100 rounded-top" alt="Image">
+                    <img src="img/2l.png" class="img-fluid w-100 rounded-top" alt="Image">
                     <div class="product-content bg-light text-center rounded-bottom p-4">
                         <p>2 Litres</p>
                         <a href="#" class="h4 d-inline-block mb-3">UV Water Bottle</a>
@@ -341,7 +341,7 @@ include('components/header.php');
             </div>
             <div class="col-lg-6 col-xl-4 wow fadeInUp" data-wow-delay="0.6s">
                 <div class="product-item">
-                    <img src="img/5l.png?v=1.0" class="img-fluid w-100 rounded-top" alt="Image">
+                    <img src="img/5l.png" class="img-fluid w-100 rounded-top" alt="Image">
                     <div class="product-content bg-light text-center rounded-bottom p-4">
                         <p>5 Litrs</p>
                         <a href="#" class="h4 d-inline-block mb-3">UV Water Bottle</a>
@@ -352,7 +352,7 @@ include('components/header.php');
             </div>
             <div class="col-lg-6 col-xl-4 wow fadeInUp" data-wow-delay="0.6s">
                 <div class="product-item">
-                    <img src="img/20l.png?v=1.0" class="img-fluid w-100 rounded-top" alt="Image">
+                    <img src="img/20l.png" class="img-fluid w-100 rounded-top" alt="Image">
                     <div class="product-content bg-light text-center rounded-bottom p-4">
                         <p>20 Litres (Jar)</p>
                         <a href="#" class="h4 d-inline-block mb-3">UV Water Bottle</a>
