@@ -380,7 +380,7 @@ include('components/header.php');
             <div class="col-lg-6 col-xl-4 wow fadeInUp" data-wow-delay="0.6s">
                 <div class="blog-item">
                     <div class="blog-img">
-                        <img src="img/bit12.jpg" class="img-fluid rounded-top w-100" alt="">
+                        <!-- <img src="img/bit12.jpg" class="img-fluid rounded-top w-100" alt=""> -->
                         <!-- <div class="blog-date px-4 py-2"><i class="fa fa-calendar-alt me-1"></i> Jan 12 2025</div> -->
                     </div>
                     <div class="blog-content rounded-bottom p-4">
