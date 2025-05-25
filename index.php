@@ -319,7 +319,7 @@ include('components/header.php');
             </div>
             <div class="col-lg-6 col-xl-4 wow fadeInUp" data-wow-delay="0.6s">
                 <div class="product-item">
-                    <img src="img/1l.png" class="img-fluid w-100 rounded-top" alt="Image">
+                    <img src="img/1ltr.png" class="img-fluid w-100 rounded-top" alt="Image">
                     <div class="product-content bg-light text-center rounded-bottom p-4">
                         <p>1 Litre</p>
                         <a href="#" class="h4 d-inline-block mb-3">UV Water Bottle</a>
