@@ -381,7 +381,7 @@ include('components/header.php');
         <div class="row justify-content-center">
             <div class="col-lg-6 col-xl-5 wow fadeInUp" data-wow-delay="0.4s">
                 <div class="p-4 bg-white shadow rounded">
-                    <img src="img/bit12.jpg" class="img-fluid rounded mb-4" alt="Vitamin B12" loading="lazy">
+                    <!-- <img src="img/bit12.jpg" class="img-fluid rounded mb-4" alt="Vitamin B12" loading="lazy"> -->
 
                     <ul class="list-unstyled fs-6">
                         <li class="mb-2">✅ Boosts Energy to Decrease Fatigue</li>
