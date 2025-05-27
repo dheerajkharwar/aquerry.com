@@ -371,29 +371,34 @@ include('components/header.php');
 
 
 <!-- Blog Start -->
-<div class="container-fluid blog pb-5">
+<div class="container-fluid blog pb-5 bg-light">
     <div class="container pb-5">
-        <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
-            <h4 class="text-uppercase text-primary">VITAMIN B12 TECHNOLOGY</h4>
+        <div class="text-center mx-auto pb-4 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
+            <h4 class="text-uppercase text-primary mb-3">Vitamin B12 Technology</h4>
+            <p class="lead text-muted">Unlock the power of B12 for energy, mood, and overall wellness</p>
         </div>
+
         <div class="row g-4 justify-content-center">
             <div class="col-lg-6 col-xl-4 wow fadeInUp" data-wow-delay="0.6s">
-                <div class="blog-item">
-                    <div class="blog-img">
-                        <!-- <img src="img/bit12.jpg" class="img-fluid rounded-top w-100" alt=""> -->
-                        <!-- <div class="blog-date px-4 py-2"><i class="fa fa-calendar-alt me-1"></i> Jan 12 2025</div> -->
+                <div class="blog-item border shadow-sm rounded h-100">
+                    <div class="blog-img position-relative">
+                        <img src="img/bit12.jpg" class="img-fluid rounded-top w-100" alt="Vitamin B12" loading="lazy">
+                        <div class="blog-date position-absolute top-0 end-0 bg-primary text-white px-3 py-1 rounded-bottom-start small">
+                            <i class="fa fa-calendar-alt me-1"></i> Jan 12, 2025
+                        </div>
                     </div>
-                    <div class="blog-content rounded-bottom p-4">
-                        <p>
-                            Boosts Energy to Decrease Fatigue in the Body.</p><p>
-                            Helps to come out from Depression.</p><p>
-                            Decrease Sugar Level in the Body.</p><p>
-                            Improves Neurological Health.</p><p>
-                            Improve Thyroid Function.</p><p>
-                            Input type:Dosing Type</p><p>
-                            Flow Rate : 4-6LPH</p><p>
-                            MOC:SS</p>
-                        <a href="#" class="fw-bold text-secondary">Read More <i class="fa fa-angle-right"></i></a>
+                    <div class="blog-content rounded-bottom p-4 bg-white">
+                        <ul class="list-unstyled mb-4">
+                            <li>✅ Boosts Energy to Decrease Fatigue</li>
+                            <li>✅ Helps Reduce Depression</li>
+                            <li>✅ Lowers Sugar Levels</li>
+                            <li>✅ Enhances Neurological Health</li>
+                            <li>✅ Improves Thyroid Function</li>
+                            <li>✅ Input Type: Dosing Type</li>
+                            <li>✅ Flow Rate: 4–6 LPH</li>
+                            <li>✅ Material: Stainless Steel (SS)</li>
+                        </ul>
+                        <a href="#" class="btn btn-yellow fw-semibold mt-2">Read More <i class="fa fa-angle-right ms-1"></i></a>
                     </div>
                 </div>
             </div>
