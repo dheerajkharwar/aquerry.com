@@ -371,40 +371,37 @@ include('components/header.php');
 
 
 <!-- Blog Start -->
-<div class="container-fluid blog pb-5 bg-light">
-    <div class="container pb-5">
-        <div class="text-center mx-auto pb-4 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
+<section class="container-fluid py-5 bg-light">
+    <div class="container py-5">
+        <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
             <h4 class="text-uppercase text-primary mb-3">Vitamin B12 Technology</h4>
-            <p class="lead text-muted">Unlock the power of B12 for energy, mood, and overall wellness</p>
+            <p class="lead text-muted">Empower your health with cutting-edge B12 solutions</p>
         </div>
 
-        <div class="row g-4 justify-content-center">
-            <div class="col-lg-6 col-xl-4 wow fadeInUp" data-wow-delay="0.6s">
-                <div class="blog-item border shadow-sm rounded h-100">
-                    <div class="blog-img position-relative">
-                        <img src="img/bit12.jpg" class="img-fluid rounded-top w-100" alt="Vitamin B12" loading="lazy">
-                        <div class="blog-date position-absolute top-0 end-0 bg-primary text-white px-3 py-1 rounded-bottom-start small">
-                            <i class="fa fa-calendar-alt me-1"></i> Jan 12, 2025
-                        </div>
-                    </div>
-                    <div class="blog-content rounded-bottom p-4 bg-white">
-                        <ul class="list-unstyled mb-4">
-                            <li>✅ Boosts Energy to Decrease Fatigue</li>
-                            <li>✅ Helps Reduce Depression</li>
-                            <li>✅ Lowers Sugar Levels</li>
-                            <li>✅ Enhances Neurological Health</li>
-                            <li>✅ Improves Thyroid Function</li>
-                            <li>✅ Input Type: Dosing Type</li>
-                            <li>✅ Flow Rate: 4–6 LPH</li>
-                            <li>✅ Material: Stainless Steel (SS)</li>
-                        </ul>
-                        <a href="#" class="btn btn-yellow fw-semibold mt-2">Read More <i class="fa fa-angle-right ms-1"></i></a>
+        <div class="row justify-content-center">
+            <div class="col-lg-6 col-xl-5 wow fadeInUp" data-wow-delay="0.4s">
+                <div class="p-4 bg-white shadow rounded">
+                    <img src="img/bit12.jpg" class="img-fluid rounded mb-4" alt="Vitamin B12" loading="lazy">
+
+                    <ul class="list-unstyled fs-6">
+                        <li class="mb-2">✅ Boosts Energy to Decrease Fatigue</li>
+                        <li class="mb-2">✅ Helps Reduce Depression</li>
+                        <li class="mb-2">✅ Lowers Sugar Levels</li>
+                        <li class="mb-2">✅ Enhances Neurological Health</li>
+                        <li class="mb-2">✅ Improves Thyroid Function</li>
+                        <li class="mb-2">✅ Input Type: Dosing Type</li>
+                        <li class="mb-2">✅ Flow Rate: 4–6 LPH</li>
+                        <li class="mb-2">✅ Material: Stainless Steel (SS)</li>
+                    </ul>
+
+                    <div class="text-end mt-4">
+                        <a href="#" class="btn btn-yellow fw-semibold">Read More <i class="fa fa-angle-right ms-1"></i></a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-</div>
+</section>
 <!-- Blog End -->
 
 

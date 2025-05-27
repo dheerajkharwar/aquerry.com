@@ -79,7 +79,15 @@
     color: var(--bs-white);
 
 }
-
+.btn-yellow {
+    background-color: #ffc107;
+    color: #212529;
+    border: none;
+}
+.btn-yellow:hover {
+    background-color: #e0a800;
+    color: #212529;
+}
 .btn.btn-secondary:hover {
     background: var(--bs-primary);
     border: 1px solid var(--bs-primary);
