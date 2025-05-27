@@ -79,7 +79,7 @@ header("Expires: 0");
                     <a href="tel:+91 9922759640"><span class="text-primary"> +91 9922759640</span></a>
                 </div>
             </div>
-            <button class="btn btn-primary btn-md-square d-flex flex-shrink-0 mb-3 mb-lg-0 rounded-circle me-3" data-bs-toggle="modal" data-bs-target="#searchModal"><i class="fas fa-search"></i></button>
+            <!-- <button class="btn btn-primary btn-md-square d-flex flex-shrink-0 mb-3 mb-lg-0 rounded-circle me-3" data-bs-toggle="modal" data-bs-target="#searchModal"><i class="fas fa-search"></i></button> -->
             <a href="https://wa.me/917972247649" target="_blank" class="btn btn-primary rounded-pill d-inline-flex flex-shrink-0 py-2 px-4">
   Order Now
 </a>
