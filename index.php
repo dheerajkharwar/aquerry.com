@@ -656,7 +656,7 @@ include('components/header.php');
                     <a href="#"><i class="fa fa-map-marker-alt me-2"></i> SR No4 -4/2/4, Lane no 6 SAWKASH NAGAR, Khondhwa KH,
                         Pune, Pune City, Maharashtra, India, 411048
                     </a>
-                    <a href="mailto:pureh2o@gmail.com"><i class="fas fa-envelope me-2"></i> pureh2o@gmail.com</a>
+                    <a href="mailto:pureh2opvt@gmail.com"><i class="fas fa-envelope me-2"></i> pureh2opvt@gmail.com</a>
                     <a href="tel:+91 7972247649"><i class="fas fa-phone me-2"></i> +91 7972247649</a>
                     <a href="tel:+91 9922759640"><i class="fas fa-phone me-2"></i> +91 9922759640</a>
                 </div>
