@@ -306,8 +306,6 @@ include('components/header.php');
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="row g-4 justify-content-center">
             <div class="col-lg-6 col-xl-4 wow fadeInUp" data-wow-delay="0.2s">
                 <div class="product-item">
                     <img src="img/200ml.png" class="img-fluid w-100 rounded-top" alt="Image">
