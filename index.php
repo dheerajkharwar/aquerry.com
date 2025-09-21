@@ -294,6 +294,17 @@ include('components/header.php');
             <h4 class="text-uppercase text-primary">Our Products</h4>
             <h1 class="display-3 text-capitalize mb-3">We Deliver Best Quality Bottle Packs.</h1>
         </div>
+        <div class="col-lg-6 col-xl-4 wow fadeInUp" data-wow-delay="0.2s">
+                <div class="product-item">
+                    <img src="img/kane.jpg" class="img-fluid w-100 rounded-top" alt="Image">
+                    <div class="product-content bg-light text-center rounded-bottom p-4">
+                        <p>200 ml (Kane)</p>
+                        <a href="#" class="h4 d-inline-block mb-3">Mineral Water Kane</a>
+                        <!-- <p class="fs-4 text-primary mb-3">$35:00</p> -->
+                        <a href="#" class="btn btn-secondary rounded-pill py-2 px-4">Read More</a>
+                    </div>
+                </div>
+        </div>
         <div class="row g-4 justify-content-center">
             <div class="col-lg-6 col-xl-4 wow fadeInUp" data-wow-delay="0.2s">
                 <div class="product-item">
